@@ -56,10 +56,3 @@ I've been learning to code for about 3 years now (my github page was a bit old a
   
 </div>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/joaozin046">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaozin046&show_icons=true&hide=issues,&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaozin046's GitHub stats" />
-</a>

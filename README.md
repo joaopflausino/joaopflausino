@@ -8,7 +8,7 @@ I've been learning to code for about 3 years now (my github page was a bit old a
 
 *   🌍  I'm based in Paraná, Brazil
 *   ✉️  You can contact me at [joaopflausino@outlook.com](mailto:joaopflausino@outlook.com)
-*   🧠  I'm learning react-native , firebase , data structure and software architecture
+*   🧠  I'm learning Neovim , AI , data structure and software architecture
 *   🤝  I'm open to collaborating on Interesting apps and open-source projects
   
 ### Skills

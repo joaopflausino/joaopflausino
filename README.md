@@ -1,12 +1,12 @@
 Hi 👋 My name is Joao Pedro Flausino
 ===========================================================================================================================================
 
-Student and Embraer Intern
+M.Sc. student in AI/ML @ ITA
 --------------------------
 
 I've been learning to code for about 3 years now (my github page was a bit old and some of my work has been done using bitbucket)
 
-*   🌍  I'm based in Paraná, Brazil
+*   🌍  I'm based in São José dos Campos, Brazil
 *   ✉️  You can contact me at [joaopflausino@outlook.com](mailto:joaopflausino@outlook.com)
 *   🧠  I'm learning Neovim , AI , data structure and software architecture
 *   🤝  I'm open to collaborating on Interesting apps and open-source projects
